@@ -1,1 +1,1 @@
-print("Hello from Docker App")
+print("Hello CI/CD")
